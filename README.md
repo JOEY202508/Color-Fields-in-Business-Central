@@ -90,5 +90,7 @@ pageextension 50445 ColorExtension extends "Item Card"
 | Enum            | 50330  | Color Emoji    |
 | TableExtension  | 50442  | ColorExtension |
 | PageExtension   | 50445  | ColorExtension |
-https://github.com/JOEY202508/Color-Fields-in-Business-Central/blob/main/CardPageSreenshot.png
+
+
+<img width="1135" height="792" alt="CardPageSreenshot" src="https://github.com/user-attachments/assets/11086843-c820-4fb5-8aa9-11da8fce6bad" />
 
